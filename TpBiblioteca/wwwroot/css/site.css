@@ -1,0 +1,18 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('https://www.65ymas.com/uploads/s1/29/71/42/5-libros-imprescindibles-con-barcelona-como-telo-n-de-fondo.jpeg')
